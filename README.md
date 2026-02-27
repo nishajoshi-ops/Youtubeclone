@@ -1,0 +1,1 @@
+A functional YouTube UI/UX clone built to mimic the look and feel of the original platform while showcasing modern web development skills. The project demonstrates how to structure a video-based interface, implement search functionality, and offer users a familiar video browsing experience.
